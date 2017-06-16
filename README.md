@@ -12,4 +12,4 @@ Codespeed for scrapy-bench
 *	Run the app on `localhost:8000/` : `python manage.py runserver`
 *   The app would be running on `localhost:8000/`
 
-To add the results, use the ` speedcenter(https://github.com/Parth-Vader/scrapy-bench/tree/speedcenter) ` branch of scrapy-bench.
+To add the results, use the [speedcenter](https://github.com/Parth-Vader/scrapy-bench/tree/speedcenter) branch of scrapy-bench.
